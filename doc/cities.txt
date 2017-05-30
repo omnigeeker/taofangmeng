@@ -1,0 +1,16 @@
+城市分类
+    1，这里的house_price为macro.house.price的系数. shop_price为macro.shop.price的系数
+    2，这里的house_rent为macro.house.rent的系数. shop_rent为macro.shop.rent的系数
+    3，这里的inc为macro种相对应的inc的系数
+
+现有属性：
+    rate:         房价和房租增长率，和Config::get("args.increment.price");相关
+    price:         房价，这里的price根本都没有起作用，还是按照Config::get("args.start.house");算基本房价
+新增属性：
+    rent_rate:    房租增长率，和房价增长率区别开来
+    
+平衡：
+    1，当价格高，不容易买方，不容易获得租金
+    2，当租金低，
+    3，售租比高，投资收益率低
+    

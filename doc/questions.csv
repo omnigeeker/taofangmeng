@@ -1,0 +1,4 @@
+﻿key,name,tag,level,question,condition,value,option1,property1,change1,message1,option2,property2,change2,message2
+,情商测验,emotion,low,女朋友问，我和你妈同时掉到河里了，你先救谁,gender,Male,先救你,,,,先救妈,,,
+,情商测验,emotion,low,你以前有几个女朋友,,,一个都没有,,,,有好多，数不清了,,,
+,财商测验,finance,low,今年5年期贷款利率是多少？,,,,,,,,,,

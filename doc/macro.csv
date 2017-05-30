@@ -1,0 +1,27 @@
+﻿interest_03,
+interest_06,
+interest_12,6
+interest_60,6.55
+,
+exchange_rate_dollor,6.16
+,
+M1,
+M2,
+M3,7.00E+14
+,
+house.price   ,10000
+house.rent    ,1000
+shop.price    ,20000
+shop.rent     ,3000
+,
+character.salary                    ,8800
+character.cash                      ,150000
+character.rent                      ,1000
+character.pay_live                  ,1500
+character.pay_car                   ,1000
+character.pay_kid                   ,400
+character.pay_old                   ,500
+character.pay_other                 ,0
+character.accumulation              ,40000
+character.certificate_succeed_rate  ,0.5
+character.init_salary               ,2500

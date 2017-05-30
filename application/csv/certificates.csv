@@ -1,0 +1,22 @@
+key,name,english,type,months,first,income,succeed_rate,remark
+CA,注册建筑师,Certified Architect ,National,10,30000,10000,0.8,
+AA,普通建筑师,Associate Architect ,National,6,10000,2000,0.75,
+CS,注册监理,Certified Supervision ,National,3,5000,1000,0.8,
+GE,岩土工程师,Geotechnical Engineer ,National,6,20000,4000,0.8,
+CE,造价工程师,Cost Engineer ,National,5,5000,1500,0.65,
+CSE,注册结构师,Certified Structural Engineer ,National,7,2000,3000,0.65,
+CHE,注册暖通,Certified HVAC Engineer ,National,7,15000,3500,0.6,
+CSE2,测绘工程师,Certified Surveying Engineer ,National,3,5000,1000,0.8,
+EE,电器工程师,Electrical Engineer ,National,8,25000,7000,0.7,
+CPA,注册会计师,Certified Public Accountant,National,12,15000,5000,0.25,报名费60/门，辅导书100元/门。共6门，加综合，要求5年内考完。一对一辅导2000/门
+ACCA,国际注册会计师 ,Association of Chartered Certified Accountants ,InterNational,12,15000,2000,0.5,73*3   = 219， 92*6   = 552， 106* 7 = 742， 1513 * 9.3690 = 14175.297
+CFA,特许金融分析师 ,Chartered Financial Analyst,InterNational,12,30000,10000,0.35,分为1，2，3级，没有时间限制。要3年以上从业经验
+SQC,证券从业资格证 ,securities  qualification certificate,National,3,2000,0,0.5,5门课程，报名费70，资料费100，辅导班1380 不在证券公司工作根本拿不到从业资格
+FQC,期货从业资格 ,Futures qualification certificate,National,3,1500,0,0.3,3门
+FRM,金融风险管理师 ,Financial Risk Manager,InterNational,5,10000,2000,0.4,
+CFP,国际金融理财师 ,Certified Financial Planner,National,3,8000,1500,0.3,考试费用1780
+AFP,金融理财师 ,Associate Financial Planner,National,3,4000,1000,0.7,考试费用890，培训费用3000
+CASA,中国准精算师 ,China ASA,National,12,2500,500,0.3,
+CFSA,中国精算师 ,China FSA,National,18,4000,1000,0.15,
+ASA ,北美准精算师 ,Associate of Society of Actuaries ,InterNational,12,5000,1500,0.3,
+FSA ,北美算师 ,Fellow of the Society of Actuaries ,InterNational,18,10000,3000,0.15,
